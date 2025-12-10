@@ -71,6 +71,7 @@ Voici ce que vous devriez obtenir en exécutant les principaux fichiers :
 **Tri d'abord par Nom (ordre alphabétique), puis par Âge (croissant).**
 
 ### Voici un exemple de l'exécution du programme (screenshot) : 
+
 <img width="180" height="151" alt="image" src="https://github.com/user-attachments/assets/812a945d-395f-4a41-a22a-502daca2eeab" />
 
 
@@ -80,6 +81,7 @@ Voici ce que vous devriez obtenir en exécutant les principaux fichiers :
 **Démonstration des interfaces de base.**
 
 ### Voici un exemple de l'exécution du programme (screenshot) : 
+
 <img width="252" height="150" alt="image" src="https://github.com/user-attachments/assets/7c2793ad-c42c-4517-a624-d09d565c7c4e" />
 
 
@@ -89,23 +91,26 @@ Voici ce que vous devriez obtenir en exécutant les principaux fichiers :
 **Calcul de factorielle avec reduce.**
 
 ### Voici un exemple de l'exécution du programme (screenshot) : 
+
 <img width="205" height="106" alt="image" src="https://github.com/user-attachments/assets/05a36653-2e2b-41ed-b7a1-bc95b8b1231e" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
+## 👤 Auteur
+ * **École Normale Supérieure de Marrakech**
+  
+* **Réalisé par :** SALMA LAKHAL
+  
+* **Filière / Groupe :** CLE_INFO_S5
+  
+* **Date :**  10/12/2025
+  
+* **Encadré par :** Pr. Mohamed LACHGAR
+  
+* **École Normale Supérieure de Marrakech** 
 
 ---
 
 *TP réalisé dans le cadre du module de Programmation Avancée.*
+
+
+###  Merci d’avoir consulté ce projet !
