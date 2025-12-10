@@ -100,7 +100,7 @@ Voici ce que vous devriez obtenir en exécutant les principaux fichiers :
   
 * **Réalisé par :** SALMA LAKHAL
   
-* **Filière / Groupe :** CLE_INFO_S5
+* **Filière  :** CLE_INFO_S5
   
 * **Date :**  10/12/2025
   
