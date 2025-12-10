@@ -53,6 +53,59 @@ Le code source se trouve dans le package `ma.tp.lambda`. Voici la description de
 * **Classes Internes Statiques** : Dans certains fichiers (`StreamAvance`, `ComparateurCompose`), les classes modèles (ex: `PersonneStream`) ont été définies comme `static` à l'intérieur de la classe principale pour faciliter l'exécution et éviter les conflits de noms dans le package.
 * **Java Version** : Assurez-vous que le "Compiler compliance level" de votre projet est réglé sur 1.8 ou plus.
 
+## 📊 Exemples de Résultats (Sorties Console)
+
+Voici ce que vous devriez obtenir en exécutant les principaux fichiers :
+
+### Sortie : `StreamAvance.java`
+
+**Démonstration de groupingBy, average, max et filter.**
+
+### Voici un exemple de l'exécution du programme (screenshot) : 
+
+<img width="1731" height="131" alt="image" src="https://github.com/user-attachments/assets/1539d916-c317-4f91-84b9-e4306297f0eb" />
+
+
+### Sortie : `ComparateurCompose.java`
+
+**Tri d'abord par Nom (ordre alphabétique), puis par Âge (croissant).**
+
+### Voici un exemple de l'exécution du programme (screenshot) : 
+<img width="180" height="151" alt="image" src="https://github.com/user-attachments/assets/812a945d-395f-4a41-a22a-502daca2eeab" />
+
+
+
+### Sortie : `InterfacesFonctionnelles.java`
+
+**Démonstration des interfaces de base.**
+
+### Voici un exemple de l'exécution du programme (screenshot) : 
+<img width="252" height="150" alt="image" src="https://github.com/user-attachments/assets/7c2793ad-c42c-4517-a624-d09d565c7c4e" />
+
+
+
+### Sortie : `FactorielleStream.java`
+
+**Calcul de factorielle avec reduce.**
+
+### Voici un exemple de l'exécution du programme (screenshot) : 
+<img width="205" height="106" alt="image" src="https://github.com/user-attachments/assets/05a36653-2e2b-41ed-b7a1-bc95b8b1231e" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 *TP réalisé dans le cadre du module de Programmation Avancée.*
