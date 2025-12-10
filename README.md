@@ -47,17 +47,6 @@ Le code source se trouve dans le package `ma.tp.lambda`. Voici la description de
 * `Memoizer.java` : Optimisation par mise en cache des résultats de fonctions coûteuses.
 * `TriFunctionDemo.java` : Création d'une interface fonctionnelle personnalisée à 3 arguments.
 
-## 🚀 Installation et Exécution (Eclipse)
-
-1.  **Créer le projet** :
-    * File > New > Java Project > Nom : `TP15_Lambda`.
-2.  **Créer le package** :
-    * Dans `src`, créer un package nommé `ma.tp.lambda`.
-3.  **Ajouter les fichiers** :
-    * Copier les fichiers `.java` dans ce package.
-4.  **Exécuter** :
-    * Ouvrir un fichier (ex: `StreamAvance.java`).
-    * Clic droit > Run As > Java Application.
 
 ## ⚠️ Notes Importantes
 
@@ -65,4 +54,5 @@ Le code source se trouve dans le package `ma.tp.lambda`. Voici la description de
 * **Java Version** : Assurez-vous que le "Compiler compliance level" de votre projet est réglé sur 1.8 ou plus.
 
 ---
+
 *TP réalisé dans le cadre du module de Programmation Avancée.*
